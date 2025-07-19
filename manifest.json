@@ -1,0 +1,278 @@
+{
+  "id": "com.elfhosted.stremthru.list",
+  "name": "StremThru List",
+  "description": "Stremio Addon for accessing Lists",
+  "version": "0.80.7",
+  "resources": [
+    {
+      "name": "catalog",
+      "types": ["movie", "series"]
+    }
+  ],
+  "types": [],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "st.list.mdblist.90300",
+      "name": "Action",
+      "extra": [
+        {
+          "name": "genre",
+          "options": [
+            "action", "adventure", "animation", "anime", "biography", "children",
+            "comedy", "crime", "documentary", "drama", "family", "fantasy",
+            "film-noir", "game-show", "history", "holiday", "home-and-garden",
+            "horror", "music", "musical", "mystery", "news", "reality", "reality-tv",
+            "romance", "science-fiction", "sci-fi", "short", "soap", "special-interest",
+            "sport", "sporting-event", "superhero", "suspense", "talk-show",
+            "thriller", "tv-movie", "war", "western"
+          ]
+        },
+        { "name": "skip" }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "st.list.mdblist.90301",
+      "name": "Adventure",
+      "extra": [
+        {
+          "name": "genre",
+          "options": [
+            "action", "adventure", "animation", "anime", "biography", "children",
+            "comedy", "crime", "documentary", "drama", "family", "fantasy",
+            "film-noir", "game-show", "history", "holiday", "home-and-garden",
+            "horror", "music", "musical", "mystery", "news", "reality", "reality-tv",
+            "romance", "science-fiction", "sci-fi", "short", "soap", "special-interest",
+            "sport", "sporting-event", "superhero", "suspense", "talk-show",
+            "thriller", "tv-movie", "war", "western"
+          ]
+        },
+        { "name": "skip" }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "st.list.mdblist.90303",
+      "name": "Comedy",
+      "extra": [
+        {
+          "name": "genre",
+          "options": [
+            "action", "adventure", "animation", "anime", "biography", "children",
+            "comedy", "crime", "documentary", "drama", "family", "fantasy",
+            "film-noir", "game-show", "history", "holiday", "home-and-garden",
+            "horror", "music", "musical", "mystery", "news", "reality", "reality-tv",
+            "romance", "science-fiction", "sci-fi", "short", "soap", "special-interest",
+            "sport", "sporting-event", "superhero", "suspense", "talk-show",
+            "thriller", "tv-movie", "war", "western"
+          ]
+        },
+        { "name": "skip" }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "st.list.mdblist.90304",
+      "name": "Documentary",
+      "extra": [
+        {
+          "name": "genre",
+          "options": [
+            "action", "adventure", "animation", "anime", "biography", "children",
+            "comedy", "crime", "documentary", "drama", "family", "fantasy",
+            "film-noir", "game-show", "history", "holiday", "home-and-garden",
+            "horror", "music", "musical", "mystery", "news", "reality", "reality-tv",
+            "romance", "science-fiction", "sci-fi", "short", "soap", "special-interest",
+            "sport", "sporting-event", "superhero", "suspense", "talk-show",
+            "thriller", "tv-movie", "war", "western"
+          ]
+        },
+        { "name": "skip" }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "st.list.mdblist.90305",
+      "name": "Drama",
+      "extra": [
+        {
+          "name": "genre",
+          "options": [
+            "action", "adventure", "animation", "anime", "biography", "children",
+            "comedy", "crime", "documentary", "drama", "family", "fantasy",
+            "film-noir", "game-show", "history", "holiday", "home-and-garden",
+            "horror", "music", "musical", "mystery", "news", "reality", "reality-tv",
+            "romance", "science-fiction", "sci-fi", "short", "soap", "special-interest",
+            "sport", "sporting-event", "superhero", "suspense", "talk-show",
+            "thriller", "tv-movie", "war", "western"
+          ]
+        },
+        { "name": "skip" }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "st.list.mdblist.90306",
+      "name": "Family",
+      "extra": [
+        {
+          "name": "genre",
+          "options": [
+            "action", "adventure", "animation", "anime", "biography", "children",
+            "comedy", "crime", "documentary", "drama", "family", "fantasy",
+            "film-noir", "game-show", "history", "holiday", "home-and-garden",
+            "horror", "music", "musical", "mystery", "news", "reality", "reality-tv",
+            "romance", "science-fiction", "sci-fi", "short", "soap", "special-interest",
+            "sport", "sporting-event", "superhero", "suspense", "talk-show",
+            "thriller", "tv-movie", "war", "western"
+          ]
+        },
+        { "name": "skip" }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "st.list.mdblist.90307",
+      "name": "History",
+      "extra": [
+        {
+          "name": "genre",
+          "options": [
+            "action", "adventure", "animation", "anime", "biography", "children",
+            "comedy", "crime", "documentary", "drama", "family", "fantasy",
+            "film-noir", "game-show", "history", "holiday", "home-and-garden",
+            "horror", "music", "musical", "mystery", "news", "reality", "reality-tv",
+            "romance", "science-fiction", "sci-fi", "short", "soap", "special-interest",
+            "sport", "sporting-event", "superhero", "suspense", "talk-show",
+            "thriller", "tv-movie", "war", "western"
+          ]
+        },
+        { "name": "skip" }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "st.list.mdblist.90308",
+      "name": "Horror",
+      "extra": [
+        {
+          "name": "genre",
+          "options": [
+            "action", "adventure", "animation", "anime", "biography", "children",
+            "comedy", "crime", "documentary", "drama", "family", "fantasy",
+            "film-noir", "game-show", "history", "holiday", "home-and-garden",
+            "horror", "music", "musical", "mystery", "news", "reality", "reality-tv",
+            "romance", "science-fiction", "sci-fi", "short", "soap", "special-interest",
+            "sport", "sporting-event", "superhero", "suspense", "talk-show",
+            "thriller", "tv-movie", "war", "western"
+          ]
+        },
+        { "name": "skip" }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "st.list.mdblist.90309",
+      "name": "Romance",
+      "extra": [
+        {
+          "name": "genre",
+          "options": [
+            "action", "adventure", "animation", "anime", "biography", "children",
+            "comedy", "crime", "documentary", "drama", "family", "fantasy",
+            "film-noir", "game-show", "history", "holiday", "home-and-garden",
+            "horror", "music", "musical", "mystery", "news", "reality", "reality-tv",
+            "romance", "science-fiction", "sci-fi", "short", "soap", "special-interest",
+            "sport", "sporting-event", "superhero", "suspense", "talk-show",
+            "thriller", "tv-movie", "war", "western"
+          ]
+        },
+        { "name": "skip" }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "st.list.mdblist.90311",
+      "name": "Thriller",
+      "extra": [
+        {
+          "name": "genre",
+          "options": [
+            "action", "adventure", "animation", "anime", "biography", "children",
+            "comedy", "crime", "documentary", "drama", "family", "fantasy",
+            "film-noir", "game-show", "history", "holiday", "home-and-garden",
+            "horror", "music", "musical", "mystery", "news", "reality", "reality-tv",
+            "romance", "science-fiction", "sci-fi", "short", "soap", "special-interest",
+            "sport", "sporting-event", "superhero", "suspense", "talk-show",
+            "thriller", "tv-movie", "war", "western"
+          ]
+        },
+        { "name": "skip" }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "st.list.mdblist.90705",
+      "name": "Popular (Movies & Shows)",
+      "extra": [
+        {
+          "name": "genre",
+          "options": [
+            "action", "adventure", "animation", "anime", "biography", "children",
+            "comedy", "crime", "documentary", "drama", "family", "fantasy",
+            "film-noir", "game-show", "history", "holiday", "home-and-garden",
+            "horror", "music", "musical", "mystery", "news", "reality", "reality-tv",
+            "romance", "science-fiction", "sci-fi", "short", "soap", "special-interest",
+            "sport", "sporting-event", "superhero", "suspense", "talk-show",
+            "thriller", "tv-movie", "war", "western"
+          ]
+        },
+        { "name": "skip" }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "st.list.mdblist.90711",
+      "name": "New (Movies & Shows)",
+      "extra": [
+        {
+          "name": "genre",
+          "options": [
+            "action", "adventure", "animation", "anime", "biography", "children",
+            "comedy", "crime", "documentary", "drama", "family", "fantasy",
+            "film-noir", "game-show", "history", "holiday", "home-and-garden",
+            "horror", "music", "musical", "mystery", "news", "reality", "reality-tv",
+            "romance", "science-fiction", "sci-fi", "short", "soap", "special-interest",
+            "sport", "sporting-event", "superhero", "suspense", "talk-show",
+            "thriller", "tv-movie", "war", "western"
+          ]
+        },
+        { "name": "skip" }
+      ]
+    },
+    {
+      "type": "Trakt",
+      "id": "st.list.trakt.2432465",
+      "name": "Laika Entertainment",
+      "extra": [
+        {
+          "name": "genre",
+          "options": [
+            "action", "adventure", "animation", "anime", "biography", "children",
+            "comedy", "crime", "documentary", "donghua", "drama", "family", "fantasy",
+            "game-show", "history", "holiday", "home-and-garden", "horror", "mini-series",
+            "music", "musical", "mystery", "news", "none", "reality", "romance",
+            "science-fiction", "short", "soap", "special-interest", "sporting-event",
+            "superhero", "suspense", "talk-show", "thriller", "war", "western"
+          ]
+        },
+        { "name": "skip" }
+      ]
+    }
+  ],
+  "logo": "https://emojiapi.dev/api/v1/sparkles/256.png",
+  "behaviorHints": {
+    "configurable": true
+  }
+}
